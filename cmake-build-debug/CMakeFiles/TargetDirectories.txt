@@ -1,0 +1,3 @@
+/Users/mattisonchao/Projects/mattison/playc/cmake-build-debug/CMakeFiles/playc.dir
+/Users/mattisonchao/Projects/mattison/playc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mattisonchao/Projects/mattison/playc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
